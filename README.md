@@ -1,3 +1,4 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/auger-python)
 # Auger
 Auger is a project to automatically generate unit tests for Python code.
 
